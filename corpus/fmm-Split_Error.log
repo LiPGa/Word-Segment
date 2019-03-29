@@ -1,0 +1,684 @@
+
+
+Jan  1 2017
+corpus/1-fmm.txt
+|Score|:95.3,split_err×0
+None
+
+Jan  1 2017
+corpus/2-fmm.txt
+|Score|:98.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/3-fmm.txt
+|Score|:98.6,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/4-fmm.txt
+|Score|:99.2,split_err×0
+None
+
+Jan  1 2017
+corpus/5-fmm.txt
+|Score|:98.9,split_err×0
+None
+
+Jan  1 2017
+corpus/6-fmm.txt
+|Score|:94.8,split_err×0
+None
+
+Jan  1 2017
+corpus/7-fmm.txt
+|Score|:86.7,split_err×0
+None
+
+Jan  1 2017
+corpus/8-fmm.txt
+|Score|:99.3,split_err×2
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/9-fmm.txt
+|Score|:98.4,split_err×6
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:债券市场,|pre|:绿色,|suf|:发展,|Correct|:债券|市场
+|WORD|:化石燃料,|pre|:的,|suf|:补贴,|Correct|:化石|燃料
+|WORD|:资金流动,|pre|:跨境,|suf|:影响,|Correct|:资金|流动
+|WORD|:国际法,|pre|:根据,|suf|:共同,|Correct|:国际|法
+
+
+Jan  1 2017
+corpus/10-fmm.txt
+|Score|:99.0,split_err×3
+|WORD|:各自,|pre|:通过,|suf|:行动,|Correct|:各|自
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/11-fmm.txt
+|Score|:97.6,split_err×0
+None
+
+Jan  1 2017
+corpus/12-fmm.txt
+|Score|:98.2,split_err×0
+None
+
+Jan  1 2017
+corpus/13-fmm.txt
+|Score|:99.4,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/14-fmm.txt
+|Score|:94.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/15-fmm.txt
+|Score|:97.1,split_err×0
+None
+
+Jan  1 2017
+corpus/16-fmm.txt
+|Score|:98.6,split_err×0
+None
+
+Jan  1 2017
+corpus/17-fmm.txt
+|Score|:96.1,split_err×0
+None
+
+Jan  1 2017
+corpus/18-fmm.txt
+|Score|:94.6,split_err×0
+None
+
+Jan  1 2017
+corpus/19-fmm.txt
+|Score|:97.3,split_err×0
+None
+
+Jan  1 2017
+corpus/20-fmm.txt
+|Score|:95.6,split_err×1
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+
+
+Jan  1 2017
+corpus/21-fmm.txt
+|Score|:87.5,split_err×0
+None
+
+Jan  1 2017
+corpus/22-fmm.txt
+|Score|:90.4,split_err×0
+None
+
+Jan  1 2017
+corpus/23-fmm.txt
+|Score|:83.8,split_err×0
+None
+
+Jan  1 2017
+corpus/24-fmm.txt
+|Score|:89.6,split_err×0
+None
+
+Jan  1 2017
+corpus/25-fmm.txt
+|Score|:93.8,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/26-fmm.txt
+|Score|:88.7,split_err×1
+None
+
+Jan  1 2017
+corpus/27-fmm.txt
+|Score|:92.9,split_err×1
+None
+
+Jan  1 2017
+corpus/28-fmm.txt
+|Score|:87.3,split_err×0
+None
+
+Jan  1 2017
+corpus/29-fmm.txt
+|Score|:89.3,split_err×0
+None
+
+Jan  1 2017
+corpus/30-fmm.txt
+|Score|:87.6,split_err×0
+None
+
+Jan  1 2017
+corpus/31-fmm.txt
+|Score|:91.3,split_err×0
+None
+
+Jan  1 2017
+corpus/31-fmm.txt
+|Score|:91.3,split_err×0
+None
+
+Jan  1 2017
+corpus/1-fmm.txt
+|Score|:95.3,split_err×0
+None
+
+Jan  1 2017
+corpus/2-fmm.txt
+|Score|:98.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/3-fmm.txt
+|Score|:98.6,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/4-fmm.txt
+|Score|:99.2,split_err×0
+None
+
+Jan  1 2017
+corpus/5-fmm.txt
+|Score|:98.9,split_err×0
+None
+
+Jan  1 2017
+corpus/6-fmm.txt
+|Score|:94.8,split_err×0
+None
+
+Jan  1 2017
+corpus/7-fmm.txt
+|Score|:86.7,split_err×0
+None
+
+Jan  1 2017
+corpus/8-fmm.txt
+|Score|:99.3,split_err×2
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/9-fmm.txt
+|Score|:98.4,split_err×6
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:债券市场,|pre|:绿色,|suf|:发展,|Correct|:债券|市场
+|WORD|:化石燃料,|pre|:的,|suf|:补贴,|Correct|:化石|燃料
+|WORD|:资金流动,|pre|:跨境,|suf|:影响,|Correct|:资金|流动
+|WORD|:国际法,|pre|:根据,|suf|:共同,|Correct|:国际|法
+
+
+Jan  1 2017
+corpus/10-fmm.txt
+|Score|:99.0,split_err×3
+|WORD|:各自,|pre|:通过,|suf|:行动,|Correct|:各|自
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/11-fmm.txt
+|Score|:97.6,split_err×0
+None
+
+Jan  1 2017
+corpus/12-fmm.txt
+|Score|:98.2,split_err×0
+None
+
+Jan  1 2017
+corpus/13-fmm.txt
+|Score|:99.4,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/14-fmm.txt
+|Score|:94.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/15-fmm.txt
+|Score|:97.1,split_err×0
+None
+
+Jan  1 2017
+corpus/16-fmm.txt
+|Score|:98.6,split_err×0
+None
+
+Jan  1 2017
+corpus/17-fmm.txt
+|Score|:96.1,split_err×0
+None
+
+Jan  1 2017
+corpus/18-fmm.txt
+|Score|:94.6,split_err×0
+None
+
+Jan  1 2017
+corpus/19-fmm.txt
+|Score|:97.3,split_err×0
+None
+
+Jan  1 2017
+corpus/20-fmm.txt
+|Score|:95.6,split_err×1
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+
+
+Jan  1 2017
+corpus/21-fmm.txt
+|Score|:87.5,split_err×0
+None
+
+Jan  1 2017
+corpus/22-fmm.txt
+|Score|:90.4,split_err×0
+None
+
+Jan  1 2017
+corpus/23-fmm.txt
+|Score|:83.8,split_err×0
+None
+
+Jan  1 2017
+corpus/24-fmm.txt
+|Score|:89.6,split_err×0
+None
+
+Jan  1 2017
+corpus/25-fmm.txt
+|Score|:93.8,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/26-fmm.txt
+|Score|:88.7,split_err×1
+None
+
+Jan  1 2017
+corpus/27-fmm.txt
+|Score|:92.9,split_err×1
+None
+
+Jan  1 2017
+corpus/28-fmm.txt
+|Score|:87.3,split_err×0
+None
+
+Jan  1 2017
+corpus/29-fmm.txt
+|Score|:89.3,split_err×0
+None
+
+Jan  1 2017
+corpus/30-fmm.txt
+|Score|:87.6,split_err×0
+None
+
+Jan  1 2017
+corpus/1-fmm.txt
+|Score|:95.3,split_err×0
+None
+
+Jan  1 2017
+corpus/2-fmm.txt
+|Score|:98.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/3-fmm.txt
+|Score|:98.6,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/4-fmm.txt
+|Score|:99.2,split_err×0
+None
+
+Jan  1 2017
+corpus/5-fmm.txt
+|Score|:98.9,split_err×0
+None
+
+Jan  1 2017
+corpus/6-fmm.txt
+|Score|:94.8,split_err×0
+None
+
+Jan  1 2017
+corpus/7-fmm.txt
+|Score|:86.7,split_err×0
+None
+
+Jan  1 2017
+corpus/8-fmm.txt
+|Score|:99.3,split_err×2
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/9-fmm.txt
+|Score|:98.4,split_err×6
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:债券市场,|pre|:绿色,|suf|:发展,|Correct|:债券|市场
+|WORD|:化石燃料,|pre|:的,|suf|:补贴,|Correct|:化石|燃料
+|WORD|:资金流动,|pre|:跨境,|suf|:影响,|Correct|:资金|流动
+|WORD|:国际法,|pre|:根据,|suf|:共同,|Correct|:国际|法
+
+
+Jan  1 2017
+corpus/10-fmm.txt
+|Score|:99.0,split_err×3
+|WORD|:各自,|pre|:通过,|suf|:行动,|Correct|:各|自
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/11-fmm.txt
+|Score|:97.6,split_err×0
+None
+
+Jan  1 2017
+corpus/12-fmm.txt
+|Score|:98.2,split_err×0
+None
+
+Jan  1 2017
+corpus/13-fmm.txt
+|Score|:99.4,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/14-fmm.txt
+|Score|:94.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/15-fmm.txt
+|Score|:97.1,split_err×0
+None
+
+Jan  1 2017
+corpus/16-fmm.txt
+|Score|:98.6,split_err×0
+None
+
+Jan  1 2017
+corpus/17-fmm.txt
+|Score|:96.1,split_err×0
+None
+
+Jan  1 2017
+corpus/18-fmm.txt
+|Score|:94.6,split_err×0
+None
+
+Jan  1 2017
+corpus/19-fmm.txt
+|Score|:97.3,split_err×0
+None
+
+Jan  1 2017
+corpus/20-fmm.txt
+|Score|:95.6,split_err×1
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+
+
+Jan  1 2017
+corpus/21-fmm.txt
+|Score|:87.5,split_err×0
+None
+
+Jan  1 2017
+corpus/22-fmm.txt
+|Score|:90.4,split_err×0
+None
+
+Jan  1 2017
+corpus/23-fmm.txt
+|Score|:83.8,split_err×0
+None
+
+Jan  1 2017
+corpus/24-fmm.txt
+|Score|:89.6,split_err×0
+None
+
+Jan  1 2017
+corpus/25-fmm.txt
+|Score|:93.8,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/26-fmm.txt
+|Score|:88.7,split_err×1
+None
+
+Jan  1 2017
+corpus/27-fmm.txt
+|Score|:92.9,split_err×1
+None
+
+Jan  1 2017
+corpus/28-fmm.txt
+|Score|:87.3,split_err×0
+None
+
+Jan  1 2017
+corpus/29-fmm.txt
+|Score|:89.3,split_err×0
+None
+
+Jan  1 2017
+corpus/30-fmm.txt
+|Score|:87.6,split_err×0
+None
+
+Jan  2 2017
+corpus/1-fmm.txt
+|Score|:95.3,split_err×0
+None
+
+Jan  2 2017
+corpus/2-fmm.txt
+|Score|:98.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/3-fmm.txt
+|Score|:98.6,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/4-fmm.txt
+|Score|:99.2,split_err×0
+None
+
+Jan  2 2017
+corpus/5-fmm.txt
+|Score|:98.9,split_err×0
+None
+
+Jan  2 2017
+corpus/6-fmm.txt
+|Score|:94.8,split_err×0
+None
+
+Jan  2 2017
+corpus/7-fmm.txt
+|Score|:86.7,split_err×0
+None
+
+Jan  2 2017
+corpus/8-fmm.txt
+|Score|:99.3,split_err×2
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/9-fmm.txt
+|Score|:98.4,split_err×6
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:债券市场,|pre|:绿色,|suf|:发展,|Correct|:债券|市场
+|WORD|:化石燃料,|pre|:的,|suf|:补贴,|Correct|:化石|燃料
+|WORD|:资金流动,|pre|:跨境,|suf|:影响,|Correct|:资金|流动
+|WORD|:国际法,|pre|:根据,|suf|:共同,|Correct|:国际|法
+
+
+Jan  2 2017
+corpus/10-fmm.txt
+|Score|:99.0,split_err×3
+|WORD|:各自,|pre|:通过,|suf|:行动,|Correct|:各|自
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/11-fmm.txt
+|Score|:97.6,split_err×0
+None
+
+Jan  2 2017
+corpus/12-fmm.txt
+|Score|:98.2,split_err×0
+None
+
+Jan  2 2017
+corpus/13-fmm.txt
+|Score|:99.4,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/14-fmm.txt
+|Score|:94.5,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/15-fmm.txt
+|Score|:97.1,split_err×0
+None
+
+Jan  2 2017
+corpus/16-fmm.txt
+|Score|:98.6,split_err×0
+None
+
+Jan  2 2017
+corpus/17-fmm.txt
+|Score|:96.1,split_err×0
+None
+
+Jan  2 2017
+corpus/18-fmm.txt
+|Score|:94.6,split_err×0
+None
+
+Jan  2 2017
+corpus/19-fmm.txt
+|Score|:97.3,split_err×0
+None
+
+Jan  2 2017
+corpus/20-fmm.txt
+|Score|:95.6,split_err×1
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+
+
+Jan  2 2017
+corpus/21-fmm.txt
+|Score|:87.5,split_err×0
+None
+
+Jan  2 2017
+corpus/22-fmm.txt
+|Score|:90.4,split_err×0
+None
+
+Jan  2 2017
+corpus/23-fmm.txt
+|Score|:83.8,split_err×0
+None
+
+Jan  2 2017
+corpus/24-fmm.txt
+|Score|:89.6,split_err×0
+None
+
+Jan  2 2017
+corpus/25-fmm.txt
+|Score|:93.8,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/26-fmm.txt
+|Score|:88.7,split_err×1
+None
+
+Jan  2 2017
+corpus/27-fmm.txt
+|Score|:92.9,split_err×1
+None
+
+Jan  2 2017
+corpus/28-fmm.txt
+|Score|:87.3,split_err×0
+None
+
+Jan  2 2017
+corpus/29-fmm.txt
+|Score|:89.3,split_err×0
+None
+
+Jan  2 2017
+corpus/30-fmm.txt
+|Score|:87.6,split_err×0
+None
+
+Jan  2 2017
+corpus/31-fmm.txt
+|Score|:91.1,split_err×0
+None

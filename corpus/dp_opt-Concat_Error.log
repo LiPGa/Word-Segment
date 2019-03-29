@@ -1,0 +1,355 @@
+
+
+Jan  1 2017
+corpus/1-dp_opt.txt
+|Score|:100.0,concat_err×0
+None
+
+Jan  1 2017
+corpus/2-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  1 2017
+corpus/3-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  1 2017
+corpus/4-dp_opt.txt
+|Score|:99.7,concat_err×1
+|WORD|:中国|鼓,|pre|:古琴,|suf|:与,|Correct|:中国鼓
+
+
+Jan  1 2017
+corpus/5-dp_opt.txt
+|Score|:99.6,concat_err×3
+|WORD|:成员|国,|pre|:各,|suf|:嘉宾国,|Correct|:成员国
+|WORD|:非|成员,|pre|:倾听,|suf|:国际组织,|Correct|:非成员
+|WORD|:非|成员,|pre|:成员,|suf|:和,|Correct|:非成员
+
+
+Jan  1 2017
+corpus/6-dp_opt.txt
+|Score|:99.8,concat_err×0
+None
+
+Jan  1 2017
+corpus/7-dp_opt.txt
+|Score|:99.2,concat_err×0
+None
+
+Jan  1 2017
+corpus/8-dp_opt.txt
+|Score|:99.6,concat_err×9
+|WORD|:全球|性,|pre|:的,|suf|:挑战,|Correct|:全球性
+|WORD|:全|国,|pre|:和,|suf|:人民,|Correct|:全国
+|WORD|:集|中,|pre|:最,|suf|:的,|Correct|:集中
+|WORD|:创新|型,|pre|:构建,|suf|:开放型,|Correct|:创新型
+|WORD|:治理|观,|pre|:经济,|suf|:习,|Correct|:治理观
+|WORD|:治理|观,|pre|:经济,|suf|:表明,|Correct|:治理观
+|WORD|:全球|化,|pre|:在,|suf|:逆风,|Correct|:全球化
+|WORD|:治理|观,|pre|:经济,|suf|:体现,|Correct|:治理观
+|WORD|:全|新,|pre|:了,|suf|:的,|Correct|:全新
+
+
+Jan  1 2017
+corpus/9-dp_opt.txt
+|Score|:99.8,concat_err×5
+|WORD|:成员|国,|pre|:集团,|suf|:生产率,|Correct|:成员国
+|WORD|:巴|塞|尔|协议|III,|pre|:包括,|suf|:和,|Correct|:巴塞尔协议III
+|WORD|:巴|塞|尔|协议|III|框架,|pre|:完成,|suf|:在,|Correct|:巴塞尔协议III框架
+|WORD|:联合|国,|pre|:承认,|suf|:在,|Correct|:联合国
+|WORD|:全球|化,|pre|:增长,|suf|:和,|Correct|:全球化
+
+
+Jan  1 2017
+corpus/10-dp_opt.txt
+|Score|:99.4,concat_err×2
+|WORD|:作|用,|pre|:综合,|suf|:下,|Correct|:作用
+|WORD|:关|心,|pre|:所有,|suf|:二十,|Correct|:关心
+
+
+Jan  1 2017
+corpus/11-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  1 2017
+corpus/12-dp_opt.txt
+|Score|:99.9,concat_err×0
+None
+
+Jan  1 2017
+corpus/13-dp_opt.txt
+|Score|:99.9,concat_err×2
+|WORD|:经济|体,|pre|:中国,|suf|:量,|Correct|:经济体
+|WORD|:去|年,|pre|:在,|suf|:二十,|Correct|:去年
+
+
+Jan  1 2017
+corpus/14-dp_opt.txt
+|Score|:99.3,concat_err×0
+None
+
+Jan  1 2017
+corpus/15-dp_opt.txt
+|Score|:100.0,concat_err×0
+None
+
+Jan  1 2017
+corpus/16-dp_opt.txt
+|Score|:99.7,concat_err×1
+|WORD|:崭|新,|pre|:以,|suf|:的,|Correct|:崭新
+
+
+Jan  1 2017
+corpus/17-dp_opt.txt
+|Score|:100.0,concat_err×0
+None
+
+Jan  1 2017
+corpus/18-dp_opt.txt
+|Score|:99.4,concat_err×1
+None
+
+Jan  1 2017
+corpus/19-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  1 2017
+corpus/20-dp_opt.txt
+|Score|:99.9,concat_err×1
+None
+
+Jan  1 2017
+corpus/21-dp_opt.txt
+|Score|:99.5,concat_err×1
+None
+
+Jan  1 2017
+corpus/22-dp_opt.txt
+|Score|:99.5,concat_err×1
+None
+
+Jan  1 2017
+corpus/23-dp_opt.txt
+|Score|:98.2,concat_err×2
+|WORD|:成员|国,|pre|:G20,|suf|:和,|Correct|:成员国
+
+
+Jan  1 2017
+corpus/24-dp_opt.txt
+|Score|:99.4,concat_err×1
+None
+
+Jan  1 2017
+corpus/25-dp_opt.txt
+|Score|:99.6,concat_err×1
+None
+
+Jan  1 2017
+corpus/26-dp_opt.txt
+|Score|:99.5,concat_err×0
+None
+
+Jan  1 2017
+corpus/27-dp_opt.txt
+|Score|:99.8,concat_err×0
+None
+
+Jan  1 2017
+corpus/28-dp_opt.txt
+|Score|:99.7,concat_err×1
+None
+
+Jan  1 2017
+corpus/29-dp_opt.txt
+|Score|:99.8,concat_err×0
+None
+
+Jan  1 2017
+corpus/30-dp_opt.txt
+|Score|:99.6,concat_err×0
+None
+
+Jan  2 2017
+corpus/1-dp_opt.txt
+|Score|:100.0,concat_err×0
+None
+
+Jan  2 2017
+corpus/2-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  2 2017
+corpus/3-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  2 2017
+corpus/4-dp_opt.txt
+|Score|:99.7,concat_err×1
+|WORD|:中国|鼓,|pre|:古琴,|suf|:与,|Correct|:中国鼓
+
+
+Jan  2 2017
+corpus/5-dp_opt.txt
+|Score|:99.6,concat_err×3
+|WORD|:成员|国,|pre|:各,|suf|:嘉宾国,|Correct|:成员国
+|WORD|:非|成员,|pre|:倾听,|suf|:国际组织,|Correct|:非成员
+|WORD|:非|成员,|pre|:成员,|suf|:和,|Correct|:非成员
+
+
+Jan  2 2017
+corpus/6-dp_opt.txt
+|Score|:99.8,concat_err×0
+None
+
+Jan  2 2017
+corpus/7-dp_opt.txt
+|Score|:99.2,concat_err×0
+None
+
+Jan  2 2017
+corpus/8-dp_opt.txt
+|Score|:99.6,concat_err×9
+|WORD|:全球|性,|pre|:的,|suf|:挑战,|Correct|:全球性
+|WORD|:全|国,|pre|:和,|suf|:人民,|Correct|:全国
+|WORD|:集|中,|pre|:最,|suf|:的,|Correct|:集中
+|WORD|:创新|型,|pre|:构建,|suf|:开放型,|Correct|:创新型
+|WORD|:治理|观,|pre|:经济,|suf|:习,|Correct|:治理观
+|WORD|:治理|观,|pre|:经济,|suf|:表明,|Correct|:治理观
+|WORD|:全球|化,|pre|:在,|suf|:逆风,|Correct|:全球化
+|WORD|:治理|观,|pre|:经济,|suf|:体现,|Correct|:治理观
+|WORD|:全|新,|pre|:了,|suf|:的,|Correct|:全新
+
+
+Jan  2 2017
+corpus/9-dp_opt.txt
+|Score|:99.8,concat_err×5
+|WORD|:成员|国,|pre|:集团,|suf|:生产率,|Correct|:成员国
+|WORD|:巴|塞|尔|协议|III,|pre|:包括,|suf|:和,|Correct|:巴塞尔协议III
+|WORD|:巴|塞|尔|协议|III|框架,|pre|:完成,|suf|:在,|Correct|:巴塞尔协议III框架
+|WORD|:联合|国,|pre|:承认,|suf|:在,|Correct|:联合国
+|WORD|:全球|化,|pre|:增长,|suf|:和,|Correct|:全球化
+
+
+Jan  2 2017
+corpus/10-dp_opt.txt
+|Score|:99.4,concat_err×2
+|WORD|:作|用,|pre|:综合,|suf|:下,|Correct|:作用
+|WORD|:关|心,|pre|:所有,|suf|:二十,|Correct|:关心
+
+
+Jan  2 2017
+corpus/11-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  2 2017
+corpus/12-dp_opt.txt
+|Score|:99.9,concat_err×0
+None
+
+Jan  2 2017
+corpus/13-dp_opt.txt
+|Score|:99.9,concat_err×2
+|WORD|:经济|体,|pre|:中国,|suf|:量,|Correct|:经济体
+|WORD|:去|年,|pre|:在,|suf|:二十,|Correct|:去年
+
+
+Jan  2 2017
+corpus/14-dp_opt.txt
+|Score|:99.3,concat_err×0
+None
+
+Jan  2 2017
+corpus/15-dp_opt.txt
+|Score|:100.0,concat_err×0
+None
+
+Jan  2 2017
+corpus/16-dp_opt.txt
+|Score|:99.7,concat_err×1
+|WORD|:崭|新,|pre|:以,|suf|:的,|Correct|:崭新
+
+
+Jan  2 2017
+corpus/17-dp_opt.txt
+|Score|:100.0,concat_err×0
+None
+
+Jan  2 2017
+corpus/18-dp_opt.txt
+|Score|:99.4,concat_err×1
+None
+
+Jan  2 2017
+corpus/19-dp_opt.txt
+|Score|:99.7,concat_err×0
+None
+
+Jan  2 2017
+corpus/20-dp_opt.txt
+|Score|:99.9,concat_err×1
+None
+
+Jan  2 2017
+corpus/21-dp_opt.txt
+|Score|:99.5,concat_err×1
+None
+
+Jan  2 2017
+corpus/22-dp_opt.txt
+|Score|:99.5,concat_err×1
+None
+
+Jan  2 2017
+corpus/23-dp_opt.txt
+|Score|:98.2,concat_err×2
+|WORD|:成员|国,|pre|:G20,|suf|:和,|Correct|:成员国
+
+
+Jan  2 2017
+corpus/24-dp_opt.txt
+|Score|:99.4,concat_err×1
+None
+
+Jan  2 2017
+corpus/25-dp_opt.txt
+|Score|:99.6,concat_err×1
+None
+
+Jan  2 2017
+corpus/26-dp_opt.txt
+|Score|:99.3,concat_err×0
+None
+
+Jan  2 2017
+corpus/27-dp_opt.txt
+|Score|:99.8,concat_err×0
+None
+
+Jan  2 2017
+corpus/28-dp_opt.txt
+|Score|:99.7,concat_err×1
+None
+
+Jan  2 2017
+corpus/29-dp_opt.txt
+|Score|:99.6,concat_err×0
+None
+
+Jan  2 2017
+corpus/30-dp_opt.txt
+|Score|:99.6,concat_err×0
+None
+
+Jan  2 2017
+corpus/31-dp_opt.txt
+|Score|:98.9,concat_err×3
+|WORD|:增长|点,|pre|:的,|suf|:还,|Correct|:增长点
+|WORD|:强|劲,|pre|:更加,|suf|:我们,|Correct|:强劲

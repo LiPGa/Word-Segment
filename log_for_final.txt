@@ -1,0 +1,25 @@
+Test for re-direct
+[['我是你'], ['，'], ['习近平是谁']]
+Now correcting slide error
+
+
+Now correcting concat error!
+我是你
+我是
+是你
+Now correcting slide error
+
+
+Now correcting concat error!
+Now correcting slide error
+Congratulation: ['习', '近平', '是', '谁'] to ['习', '近', '平是', '谁']
+
+
+Now correcting concat error!
+习近平是谁
+习近平是
+习近平
+近平是谁
+近平是
+是谁
+['我', '是', '你', '，', '习', '近平', '是', '谁']

@@ -1,0 +1,323 @@
+
+
+Jan  1 2017
+corpus/1-dp_opt.txt
+|Score|:100.0,slide_err×0
+None
+
+Jan  1 2017
+corpus/2-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/3-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/4-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/5-dp_opt.txt
+|Score|:99.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/6-dp_opt.txt
+|Score|:99.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/7-dp_opt.txt
+|Score|:99.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/8-dp_opt.txt
+|Score|:99.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/9-dp_opt.txt
+|Score|:99.8,slide_err×2
+|WORD|:主权|债,|pre|:一系列,|suf|:问题,|Correct|:一系列|主|权债
+|WORD|:开发|票,|pre|:错,|suf|:等,|Correct|:错|开|发票
+
+
+Jan  1 2017
+corpus/10-dp_opt.txt
+|Score|:99.4,slide_err×2
+|WORD|:综|合作,|pre|:因素,|suf|:下,|Correct|:综合|作用
+|WORD|:所|有关,|pre|:以及,|suf|:二十,|Correct|:所有|关心
+
+
+Jan  1 2017
+corpus/11-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/12-dp_opt.txt
+|Score|:99.9,slide_err×0
+None
+
+Jan  1 2017
+corpus/13-dp_opt.txt
+|Score|:99.9,slide_err×0
+None
+
+Jan  1 2017
+corpus/14-dp_opt.txt
+|Score|:99.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/15-dp_opt.txt
+|Score|:100.0,slide_err×0
+None
+
+Jan  1 2017
+corpus/16-dp_opt.txt
+|Score|:99.7,slide_err×1
+|WORD|:开|创新,|pre|:治理,|suf|:愿景,|Correct|:开创|新
+
+
+Jan  1 2017
+corpus/17-dp_opt.txt
+|Score|:100.0,slide_err×0
+None
+
+Jan  1 2017
+corpus/18-dp_opt.txt
+|Score|:99.4,slide_err×0
+None
+
+Jan  1 2017
+corpus/19-dp_opt.txt
+|Score|:99.7,slide_err×1
+|WORD|:开|创新,|pre|:增长,|suf|:的,|Correct|:开创|新
+
+
+Jan  1 2017
+corpus/20-dp_opt.txt
+|Score|:99.9,slide_err×0
+None
+
+Jan  1 2017
+corpus/21-dp_opt.txt
+|Score|:99.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/22-dp_opt.txt
+|Score|:99.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/23-dp_opt.txt
+|Score|:98.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/24-dp_opt.txt
+|Score|:99.4,slide_err×0
+None
+
+Jan  1 2017
+corpus/25-dp_opt.txt
+|Score|:99.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/26-dp_opt.txt
+|Score|:99.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/27-dp_opt.txt
+|Score|:99.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/28-dp_opt.txt
+|Score|:99.7,slide_err×1
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
+
+
+Jan  1 2017
+corpus/29-dp_opt.txt
+|Score|:99.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/30-dp_opt.txt
+|Score|:99.6,slide_err×1
+|WORD|:﻿http|g20chn,|pre|:None,|suf|:org,|Correct|:None|http|g20chn
+
+
+Jan  2 2017
+corpus/1-dp_opt.txt
+|Score|:100.0,slide_err×0
+None
+
+Jan  2 2017
+corpus/2-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  2 2017
+corpus/3-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  2 2017
+corpus/4-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  2 2017
+corpus/5-dp_opt.txt
+|Score|:99.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/6-dp_opt.txt
+|Score|:99.8,slide_err×0
+None
+
+Jan  2 2017
+corpus/7-dp_opt.txt
+|Score|:99.2,slide_err×0
+None
+
+Jan  2 2017
+corpus/8-dp_opt.txt
+|Score|:99.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/9-dp_opt.txt
+|Score|:99.8,slide_err×2
+|WORD|:主权|债,|pre|:一系列,|suf|:问题,|Correct|:一系列|主|权债
+|WORD|:开发|票,|pre|:错,|suf|:等,|Correct|:错|开|发票
+
+
+Jan  2 2017
+corpus/10-dp_opt.txt
+|Score|:99.4,slide_err×2
+|WORD|:综|合作,|pre|:因素,|suf|:下,|Correct|:综合|作用
+|WORD|:所|有关,|pre|:以及,|suf|:二十,|Correct|:所有|关心
+
+
+Jan  2 2017
+corpus/11-dp_opt.txt
+|Score|:99.7,slide_err×0
+None
+
+Jan  2 2017
+corpus/12-dp_opt.txt
+|Score|:99.9,slide_err×0
+None
+
+Jan  2 2017
+corpus/13-dp_opt.txt
+|Score|:99.9,slide_err×0
+None
+
+Jan  2 2017
+corpus/14-dp_opt.txt
+|Score|:99.3,slide_err×0
+None
+
+Jan  2 2017
+corpus/15-dp_opt.txt
+|Score|:100.0,slide_err×0
+None
+
+Jan  2 2017
+corpus/16-dp_opt.txt
+|Score|:99.7,slide_err×1
+|WORD|:开|创新,|pre|:治理,|suf|:愿景,|Correct|:开创|新
+
+
+Jan  2 2017
+corpus/17-dp_opt.txt
+|Score|:100.0,slide_err×0
+None
+
+Jan  2 2017
+corpus/18-dp_opt.txt
+|Score|:99.4,slide_err×0
+None
+
+Jan  2 2017
+corpus/19-dp_opt.txt
+|Score|:99.7,slide_err×1
+|WORD|:开|创新,|pre|:增长,|suf|:的,|Correct|:开创|新
+
+
+Jan  2 2017
+corpus/20-dp_opt.txt
+|Score|:99.9,slide_err×0
+None
+
+Jan  2 2017
+corpus/21-dp_opt.txt
+|Score|:99.5,slide_err×0
+None
+
+Jan  2 2017
+corpus/22-dp_opt.txt
+|Score|:99.5,slide_err×0
+None
+
+Jan  2 2017
+corpus/23-dp_opt.txt
+|Score|:98.2,slide_err×0
+None
+
+Jan  2 2017
+corpus/24-dp_opt.txt
+|Score|:99.4,slide_err×0
+None
+
+Jan  2 2017
+corpus/25-dp_opt.txt
+|Score|:99.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/26-dp_opt.txt
+|Score|:99.3,slide_err×0
+None
+
+Jan  2 2017
+corpus/27-dp_opt.txt
+|Score|:99.8,slide_err×0
+None
+
+Jan  2 2017
+corpus/28-dp_opt.txt
+|Score|:99.7,slide_err×1
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
+
+
+Jan  2 2017
+corpus/29-dp_opt.txt
+|Score|:99.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/30-dp_opt.txt
+|Score|:99.6,slide_err×1
+|WORD|:﻿http|g20chn,|pre|:None,|suf|:org,|Correct|:None|http|g20chn
+
+
+Jan  2 2017
+corpus/31-dp_opt.txt
+|Score|:98.9,slide_err×2
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
+|WORD|:更|加强,|pre|:得,|suf|:我们,|Correct|:更加|强劲

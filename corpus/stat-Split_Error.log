@@ -1,0 +1,168 @@
+
+
+Jan  1 2017
+corpus/1-stat.txt
+|Score|:96.6,split_err×0
+None
+
+Jan  1 2017
+corpus/2-stat.txt
+|Score|:94.4,split_err×1
+|WORD|:html二十,|pre|:3384,|suf|:国,|Correct|:html|二十
+
+
+Jan  1 2017
+corpus/3-stat.txt
+|Score|:90.7,split_err×1
+|WORD|:html二十,|pre|:3359,|suf|:国,|Correct|:html|二十
+
+
+Jan  1 2017
+corpus/4-stat.txt
+|Score|:89.8,split_err×1
+|WORD|:html习,|pre|:3363,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/5-stat.txt
+|Score|:90.4,split_err×1
+|WORD|:html李,|pre|:3527,|suf|:保东,|Correct|:html|李
+
+
+Jan  1 2017
+corpus/6-stat.txt
+|Score|:90.1,split_err×1
+|WORD|:html2016,|pre|:3526,|suf|:年,|Correct|:html|2016
+
+
+Jan  1 2017
+corpus/7-stat.txt
+|Score|:90.0,split_err×1
+|WORD|:html2016,|pre|:3511,|suf|:年,|Correct|:html|2016
+
+
+Jan  1 2017
+corpus/8-stat.txt
+|Score|:87.9,split_err×1
+|WORD|:html杨,|pre|:3403,|suf|:洁篪,|Correct|:html|杨
+
+
+Jan  1 2017
+corpus/9-stat.txt
+|Score|:91.8,split_err×3
+|WORD|:html二十,|pre|:3394,|suf|:国,|Correct|:html|二十
+|WORD|:化石燃料,|pre|:的,|suf|:补贴,|Correct|:化石|燃料
+|WORD|:资金流动,|pre|:跨境,|suf|:影响,|Correct|:资金|流动
+
+
+Jan  1 2017
+corpus/10-stat.txt
+|Score|:89.8,split_err×1
+|WORD|:html习,|pre|:3341,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/11-stat.txt
+|Score|:93.5,split_err×1
+|WORD|:html习,|pre|:3383,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/12-stat.txt
+|Score|:88.1,split_err×1
+|WORD|:html习,|pre|:3308,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/13-stat.txt
+|Score|:86.4,split_err×1
+|WORD|:html习,|pre|:3305,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/14-stat.txt
+|Score|:92.7,split_err×2
+|WORD|:html2016,|pre|:3267,|suf|:年,|Correct|:html|2016
+|WORD|:12,|pre|:年,|suf|:月,|Correct|:1|2
+
+
+Jan  1 2017
+corpus/15-stat.txt
+|Score|:83.3,split_err×0
+None
+
+Jan  1 2017
+corpus/16-stat.txt
+|Score|:90.6,split_err×1
+|WORD|:html外交部,|pre|:3165,|suf|:就,|Correct|:html|外交部
+
+
+Jan  1 2017
+corpus/17-stat.txt
+|Score|:91.4,split_err×0
+None
+
+Jan  1 2017
+corpus/18-stat.txt
+|Score|:88.7,split_err×0
+None
+
+Jan  1 2017
+corpus/19-stat.txt
+|Score|:91.7,split_err×0
+None
+
+Jan  1 2017
+corpus/20-stat.txt
+|Score|:89.5,split_err×0
+None
+
+Jan  1 2017
+corpus/21-stat.txt
+|Score|:92.0,split_err×0
+None
+
+Jan  1 2017
+corpus/22-stat.txt
+|Score|:94.7,split_err×0
+None
+
+Jan  1 2017
+corpus/23-stat.txt
+|Score|:91.9,split_err×0
+None
+
+Jan  1 2017
+corpus/24-stat.txt
+|Score|:93.3,split_err×0
+None
+
+Jan  1 2017
+corpus/25-stat.txt
+|Score|:96.0,split_err×0
+None
+
+Jan  1 2017
+corpus/26-stat.txt
+|Score|:83.7,split_err×2
+None
+
+Jan  1 2017
+corpus/27-stat.txt
+|Score|:91.9,split_err×1
+None
+
+Jan  1 2017
+corpus/28-stat.txt
+|Score|:82.6,split_err×0
+None
+
+Jan  1 2017
+corpus/29-stat.txt
+|Score|:89.1,split_err×0
+None
+
+Jan  1 2017
+corpus/30-stat.txt
+|Score|:82.2,split_err×0
+None

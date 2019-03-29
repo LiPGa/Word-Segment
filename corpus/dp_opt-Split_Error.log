@@ -1,0 +1,386 @@
+
+
+Jan  1 2017
+corpus/1-dp_opt.txt
+|Score|:100.0,split_err×0
+None
+
+Jan  1 2017
+corpus/2-dp_opt.txt
+|Score|:99.7,split_err×2
+|WORD|:html二十,|pre|:3384,|suf|:国,|Correct|:html|二十
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/3-dp_opt.txt
+|Score|:99.7,split_err×2
+|WORD|:html二十,|pre|:3359,|suf|:国,|Correct|:html|二十
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/4-dp_opt.txt
+|Score|:99.7,split_err×1
+|WORD|:html习,|pre|:3363,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/5-dp_opt.txt
+|Score|:99.6,split_err×1
+|WORD|:html李,|pre|:3527,|suf|:保东,|Correct|:html|李
+
+
+Jan  1 2017
+corpus/6-dp_opt.txt
+|Score|:99.8,split_err×1
+|WORD|:html2016,|pre|:3526,|suf|:年,|Correct|:html|2016
+
+
+Jan  1 2017
+corpus/7-dp_opt.txt
+|Score|:99.2,split_err×1
+|WORD|:html2016,|pre|:3511,|suf|:年,|Correct|:html|2016
+
+
+Jan  1 2017
+corpus/8-dp_opt.txt
+|Score|:99.6,split_err×3
+|WORD|:html杨,|pre|:3403,|suf|:洁篪,|Correct|:html|杨
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/9-dp_opt.txt
+|Score|:99.8,split_err×8
+|WORD|:html二十,|pre|:3394,|suf|:国,|Correct|:html|二十
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:债券市场,|pre|:绿色,|suf|:发展,|Correct|:债券|市场
+|WORD|:化石燃料,|pre|:的,|suf|:补贴,|Correct|:化石|燃料
+|WORD|:资金流动,|pre|:跨境,|suf|:影响,|Correct|:资金|流动
+|WORD|:国际法,|pre|:根据,|suf|:共同,|Correct|:国际|法
+|WORD|:角度,|pre|:的,|suf|:采取,|Correct|:角|度
+
+
+Jan  1 2017
+corpus/10-dp_opt.txt
+|Score|:99.4,split_err×4
+|WORD|:html习,|pre|:3341,|suf|:近平,|Correct|:html|习
+|WORD|:各自,|pre|:通过,|suf|:行动,|Correct|:各|自
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/11-dp_opt.txt
+|Score|:99.7,split_err×1
+|WORD|:html习,|pre|:3383,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/12-dp_opt.txt
+|Score|:99.9,split_err×1
+|WORD|:html习,|pre|:3308,|suf|:近平,|Correct|:html|习
+
+
+Jan  1 2017
+corpus/13-dp_opt.txt
+|Score|:99.9,split_err×2
+|WORD|:html习,|pre|:3305,|suf|:近平,|Correct|:html|习
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/14-dp_opt.txt
+|Score|:99.3,split_err×3
+|WORD|:html2016,|pre|:3267,|suf|:年,|Correct|:html|2016
+|WORD|:12,|pre|:年,|suf|:月,|Correct|:1|2
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/15-dp_opt.txt
+|Score|:100.0,split_err×0
+None
+
+Jan  1 2017
+corpus/16-dp_opt.txt
+|Score|:99.7,split_err×1
+|WORD|:html外交部,|pre|:3165,|suf|:就,|Correct|:html|外交部
+
+
+Jan  1 2017
+corpus/17-dp_opt.txt
+|Score|:100.0,split_err×0
+None
+
+Jan  1 2017
+corpus/18-dp_opt.txt
+|Score|:99.4,split_err×0
+None
+
+Jan  1 2017
+corpus/19-dp_opt.txt
+|Score|:99.7,split_err×0
+None
+
+Jan  1 2017
+corpus/20-dp_opt.txt
+|Score|:99.9,split_err×1
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+
+
+Jan  1 2017
+corpus/21-dp_opt.txt
+|Score|:99.5,split_err×0
+None
+
+Jan  1 2017
+corpus/22-dp_opt.txt
+|Score|:99.5,split_err×0
+None
+
+Jan  1 2017
+corpus/23-dp_opt.txt
+|Score|:98.2,split_err×0
+None
+
+Jan  1 2017
+corpus/24-dp_opt.txt
+|Score|:99.4,split_err×0
+None
+
+Jan  1 2017
+corpus/25-dp_opt.txt
+|Score|:99.6,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  1 2017
+corpus/26-dp_opt.txt
+|Score|:99.5,split_err×2
+|WORD|:html夏季,|pre|:2329,|suf|:达沃斯,|Correct|:html|夏季
+
+
+Jan  1 2017
+corpus/27-dp_opt.txt
+|Score|:99.8,split_err×1
+None
+
+Jan  1 2017
+corpus/28-dp_opt.txt
+|Score|:99.7,split_err×2
+|WORD|:相比,|pre|:气力,|suf|:回,|Correct|:相|比
+|WORD|:角度,|pre|:需求,|suf|:释放,|Correct|:角|度
+
+
+Jan  1 2017
+corpus/29-dp_opt.txt
+|Score|:99.8,split_err×1
+|WORD|:科学家,|pre|:企业家,|suf|:和,|Correct|:科学|家
+
+
+Jan  1 2017
+corpus/30-dp_opt.txt
+|Score|:99.6,split_err×0
+None
+
+Jan  2 2017
+corpus/1-dp_opt.txt
+|Score|:100.0,split_err×0
+None
+
+Jan  2 2017
+corpus/2-dp_opt.txt
+|Score|:99.7,split_err×2
+|WORD|:html二十,|pre|:3384,|suf|:国,|Correct|:html|二十
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/3-dp_opt.txt
+|Score|:99.7,split_err×2
+|WORD|:html二十,|pre|:3359,|suf|:国,|Correct|:html|二十
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/4-dp_opt.txt
+|Score|:99.7,split_err×1
+|WORD|:html习,|pre|:3363,|suf|:近平,|Correct|:html|习
+
+
+Jan  2 2017
+corpus/5-dp_opt.txt
+|Score|:99.6,split_err×1
+|WORD|:html李,|pre|:3527,|suf|:保东,|Correct|:html|李
+
+
+Jan  2 2017
+corpus/6-dp_opt.txt
+|Score|:99.8,split_err×1
+|WORD|:html2016,|pre|:3526,|suf|:年,|Correct|:html|2016
+
+
+Jan  2 2017
+corpus/7-dp_opt.txt
+|Score|:99.2,split_err×1
+|WORD|:html2016,|pre|:3511,|suf|:年,|Correct|:html|2016
+
+
+Jan  2 2017
+corpus/8-dp_opt.txt
+|Score|:99.6,split_err×3
+|WORD|:html杨,|pre|:3403,|suf|:洁篪,|Correct|:html|杨
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/9-dp_opt.txt
+|Score|:99.8,split_err×9
+|WORD|:html二十,|pre|:3394,|suf|:国,|Correct|:html|二十
+|WORD|:增长点,|pre|:新,|suf|:以,|Correct|:增长|点
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:债券市场,|pre|:绿色,|suf|:发展,|Correct|:债券|市场
+|WORD|:化石燃料,|pre|:的,|suf|:补贴,|Correct|:化石|燃料
+|WORD|:资金流动,|pre|:跨境,|suf|:影响,|Correct|:资金|流动
+|WORD|:国际法,|pre|:根据,|suf|:共同,|Correct|:国际|法
+|WORD|:角度,|pre|:的,|suf|:采取,|Correct|:角|度
+
+
+Jan  2 2017
+corpus/10-dp_opt.txt
+|Score|:99.4,split_err×4
+|WORD|:html习,|pre|:3341,|suf|:近平,|Correct|:html|习
+|WORD|:各自,|pre|:通过,|suf|:行动,|Correct|:各|自
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+|WORD|:发达国家,|pre|:不,|suf|:内陆国,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/11-dp_opt.txt
+|Score|:99.7,split_err×1
+|WORD|:html习,|pre|:3383,|suf|:近平,|Correct|:html|习
+
+
+Jan  2 2017
+corpus/12-dp_opt.txt
+|Score|:99.9,split_err×1
+|WORD|:html习,|pre|:3308,|suf|:近平,|Correct|:html|习
+
+
+Jan  2 2017
+corpus/13-dp_opt.txt
+|Score|:99.9,split_err×2
+|WORD|:html习,|pre|:3305,|suf|:近平,|Correct|:html|习
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/14-dp_opt.txt
+|Score|:99.3,split_err×3
+|WORD|:html2016,|pre|:3267,|suf|:年,|Correct|:html|2016
+|WORD|:12,|pre|:年,|suf|:月,|Correct|:1|2
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/15-dp_opt.txt
+|Score|:100.0,split_err×0
+None
+
+Jan  2 2017
+corpus/16-dp_opt.txt
+|Score|:99.7,split_err×1
+|WORD|:html外交部,|pre|:3165,|suf|:就,|Correct|:html|外交部
+
+
+Jan  2 2017
+corpus/17-dp_opt.txt
+|Score|:100.0,split_err×0
+None
+
+Jan  2 2017
+corpus/18-dp_opt.txt
+|Score|:99.4,split_err×0
+None
+
+Jan  2 2017
+corpus/19-dp_opt.txt
+|Score|:99.7,split_err×0
+None
+
+Jan  2 2017
+corpus/20-dp_opt.txt
+|Score|:99.9,split_err×1
+|WORD|:外汇市场,|pre|:就,|suf|:密切,|Correct|:外汇|市场
+
+
+Jan  2 2017
+corpus/21-dp_opt.txt
+|Score|:99.5,split_err×0
+None
+
+Jan  2 2017
+corpus/22-dp_opt.txt
+|Score|:99.5,split_err×0
+None
+
+Jan  2 2017
+corpus/23-dp_opt.txt
+|Score|:98.2,split_err×0
+None
+
+Jan  2 2017
+corpus/24-dp_opt.txt
+|Score|:99.4,split_err×0
+None
+
+Jan  2 2017
+corpus/25-dp_opt.txt
+|Score|:99.6,split_err×1
+|WORD|:发达国家,|pre|:不,|suf|:工业化,|Correct|:发达|国家
+
+
+Jan  2 2017
+corpus/26-dp_opt.txt
+|Score|:99.3,split_err×3
+|WORD|:html夏季,|pre|:2329,|suf|:达沃斯,|Correct|:html|夏季
+|WORD|:单纯,|pre|:挥之不去,|suf|:依靠,|Correct|:单|纯
+
+
+Jan  2 2017
+corpus/27-dp_opt.txt
+|Score|:99.8,split_err×1
+None
+
+Jan  2 2017
+corpus/28-dp_opt.txt
+|Score|:99.7,split_err×2
+|WORD|:相比,|pre|:气力,|suf|:回,|Correct|:相|比
+|WORD|:角度,|pre|:需求,|suf|:释放,|Correct|:角|度
+
+
+Jan  2 2017
+corpus/29-dp_opt.txt
+|Score|:99.6,split_err×2
+|WORD|:来到,|pre|:代表,|suf|:中国,|Correct|:来|到
+|WORD|:科学家,|pre|:企业家,|suf|:和,|Correct|:科学|家
+
+
+Jan  2 2017
+corpus/30-dp_opt.txt
+|Score|:99.6,split_err×0
+None
+
+Jan  2 2017
+corpus/31-dp_opt.txt
+|Score|:98.9,split_err×4
+|WORD|:朋友,|pre|:位,|suf|:大家,|Correct|:朋|友
+|WORD|:重回,|pre|:完全,|suf|:正轨,|Correct|:重|回
+|WORD|:有的,|pre|:是,|suf|:但,|Correct|:有|的
+|WORD|:敢于,|pre|:创新,|suf|:走,|Correct|:敢|于

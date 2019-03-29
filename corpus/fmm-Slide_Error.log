@@ -1,0 +1,700 @@
+
+
+Jan  1 2017
+corpus/1-fmm.txt
+|Score|:95.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/2-fmm.txt
+|Score|:98.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/3-fmm.txt
+|Score|:98.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/4-fmm.txt
+|Score|:99.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/5-fmm.txt
+|Score|:98.9,slide_err×0
+None
+
+Jan  1 2017
+corpus/6-fmm.txt
+|Score|:94.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/7-fmm.txt
+|Score|:86.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/8-fmm.txt
+|Score|:99.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/9-fmm.txt
+|Score|:98.4,slide_err×7
+|WORD|:高级|别,|pre|:的,|suf|:指导,|Correct|:的|高|级别
+|WORD|:主权|债,|pre|:一系列,|suf|:问题,|Correct|:一系列|主|权债
+|WORD|:并重|申,|pre|:年底,|suf|:决心,|Correct|:年底|并|重申
+|WORD|:高级|别,|pre|:一些,|suf|:原则,|Correct|:一些|高|级别
+|WORD|:开发|票,|pre|:错,|suf|:等,|Correct|:错|开|发票
+|WORD|:高级|别,|pre|:的,|suf|:会议,|Correct|:的|高|级别
+|WORD|:高级|别,|pre|:问题,|suf|:会议,|Correct|:问题|高|级别
+
+
+Jan  1 2017
+corpus/10-fmm.txt
+|Score|:99.0,slide_err×1
+|WORD|:国内|部,|pre|:一,|suf|:压力,|Correct|:一|国|内部
+
+
+Jan  1 2017
+corpus/11-fmm.txt
+|Score|:97.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/12-fmm.txt
+|Score|:98.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/13-fmm.txt
+|Score|:99.4,slide_err×1
+|WORD|:正面|临,|pre|:发展,|suf|:着,|Correct|:发展|正|面临
+
+
+Jan  1 2017
+corpus/14-fmm.txt
+|Score|:94.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/15-fmm.txt
+|Score|:97.1,slide_err×0
+None
+
+Jan  1 2017
+corpus/16-fmm.txt
+|Score|:98.6,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/17-fmm.txt
+|Score|:96.1,slide_err×0
+None
+
+Jan  1 2017
+corpus/18-fmm.txt
+|Score|:94.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/19-fmm.txt
+|Score|:97.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/20-fmm.txt
+|Score|:95.6,slide_err×3
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:并重|申,|pre|:增长,|suf|:将,|Correct|:增长|并|重申
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/21-fmm.txt
+|Score|:87.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/22-fmm.txt
+|Score|:90.4,slide_err×0
+None
+
+Jan  1 2017
+corpus/23-fmm.txt
+|Score|:83.8,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/24-fmm.txt
+|Score|:89.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/25-fmm.txt
+|Score|:93.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/26-fmm.txt
+|Score|:88.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/27-fmm.txt
+|Score|:92.9,slide_err×1
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/28-fmm.txt
+|Score|:87.3,slide_err×3
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
+|WORD|:高级|别,|pre|:更,|suf|:开展,|Correct|:更|高|级别
+|WORD|:大力|气,|pre|:很,|suf|:许多,|Correct|:很|大|力气
+
+
+Jan  1 2017
+corpus/29-fmm.txt
+|Score|:89.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/30-fmm.txt
+|Score|:87.6,slide_err×1
+|WORD|:﻿http|g20chn,|pre|:None,|suf|:org,|Correct|:None|http|g20chn
+
+
+Jan  1 2017
+corpus/31-fmm.txt
+|Score|:91.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/31-fmm.txt
+|Score|:91.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/1-fmm.txt
+|Score|:95.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/2-fmm.txt
+|Score|:98.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/3-fmm.txt
+|Score|:98.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/4-fmm.txt
+|Score|:99.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/5-fmm.txt
+|Score|:98.9,slide_err×0
+None
+
+Jan  1 2017
+corpus/6-fmm.txt
+|Score|:94.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/7-fmm.txt
+|Score|:86.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/8-fmm.txt
+|Score|:99.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/9-fmm.txt
+|Score|:98.4,slide_err×7
+|WORD|:高级|别,|pre|:的,|suf|:指导,|Correct|:的|高|级别
+|WORD|:主权|债,|pre|:一系列,|suf|:问题,|Correct|:一系列|主|权债
+|WORD|:并重|申,|pre|:年底,|suf|:决心,|Correct|:年底|并|重申
+|WORD|:高级|别,|pre|:一些,|suf|:原则,|Correct|:一些|高|级别
+|WORD|:开发|票,|pre|:错,|suf|:等,|Correct|:错|开|发票
+|WORD|:高级|别,|pre|:的,|suf|:会议,|Correct|:的|高|级别
+|WORD|:高级|别,|pre|:问题,|suf|:会议,|Correct|:问题|高|级别
+
+
+Jan  1 2017
+corpus/10-fmm.txt
+|Score|:99.0,slide_err×1
+|WORD|:国内|部,|pre|:一,|suf|:压力,|Correct|:一|国|内部
+
+
+Jan  1 2017
+corpus/11-fmm.txt
+|Score|:97.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/12-fmm.txt
+|Score|:98.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/13-fmm.txt
+|Score|:99.4,slide_err×1
+|WORD|:正面|临,|pre|:发展,|suf|:着,|Correct|:发展|正|面临
+
+
+Jan  1 2017
+corpus/14-fmm.txt
+|Score|:94.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/15-fmm.txt
+|Score|:97.1,slide_err×0
+None
+
+Jan  1 2017
+corpus/16-fmm.txt
+|Score|:98.6,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/17-fmm.txt
+|Score|:96.1,slide_err×0
+None
+
+Jan  1 2017
+corpus/18-fmm.txt
+|Score|:94.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/19-fmm.txt
+|Score|:97.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/20-fmm.txt
+|Score|:95.6,slide_err×3
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:并重|申,|pre|:增长,|suf|:将,|Correct|:增长|并|重申
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/21-fmm.txt
+|Score|:87.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/22-fmm.txt
+|Score|:90.4,slide_err×0
+None
+
+Jan  1 2017
+corpus/23-fmm.txt
+|Score|:83.8,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/24-fmm.txt
+|Score|:89.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/25-fmm.txt
+|Score|:93.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/26-fmm.txt
+|Score|:88.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/27-fmm.txt
+|Score|:92.9,slide_err×1
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/28-fmm.txt
+|Score|:87.3,slide_err×3
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
+|WORD|:高级|别,|pre|:更,|suf|:开展,|Correct|:更|高|级别
+|WORD|:大力|气,|pre|:很,|suf|:许多,|Correct|:很|大|力气
+
+
+Jan  1 2017
+corpus/29-fmm.txt
+|Score|:89.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/30-fmm.txt
+|Score|:87.6,slide_err×1
+|WORD|:﻿http|g20chn,|pre|:None,|suf|:org,|Correct|:None|http|g20chn
+
+
+Jan  1 2017
+corpus/1-fmm.txt
+|Score|:95.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/2-fmm.txt
+|Score|:98.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/3-fmm.txt
+|Score|:98.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/4-fmm.txt
+|Score|:99.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/5-fmm.txt
+|Score|:98.9,slide_err×0
+None
+
+Jan  1 2017
+corpus/6-fmm.txt
+|Score|:94.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/7-fmm.txt
+|Score|:86.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/8-fmm.txt
+|Score|:99.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/9-fmm.txt
+|Score|:98.4,slide_err×7
+|WORD|:高级|别,|pre|:的,|suf|:指导,|Correct|:的|高|级别
+|WORD|:主权|债,|pre|:一系列,|suf|:问题,|Correct|:一系列|主|权债
+|WORD|:并重|申,|pre|:年底,|suf|:决心,|Correct|:年底|并|重申
+|WORD|:高级|别,|pre|:一些,|suf|:原则,|Correct|:一些|高|级别
+|WORD|:开发|票,|pre|:错,|suf|:等,|Correct|:错|开|发票
+|WORD|:高级|别,|pre|:的,|suf|:会议,|Correct|:的|高|级别
+|WORD|:高级|别,|pre|:问题,|suf|:会议,|Correct|:问题|高|级别
+
+
+Jan  1 2017
+corpus/10-fmm.txt
+|Score|:99.0,slide_err×1
+|WORD|:国内|部,|pre|:一,|suf|:压力,|Correct|:一|国|内部
+
+
+Jan  1 2017
+corpus/11-fmm.txt
+|Score|:97.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/12-fmm.txt
+|Score|:98.2,slide_err×0
+None
+
+Jan  1 2017
+corpus/13-fmm.txt
+|Score|:99.4,slide_err×1
+|WORD|:正面|临,|pre|:发展,|suf|:着,|Correct|:发展|正|面临
+
+
+Jan  1 2017
+corpus/14-fmm.txt
+|Score|:94.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/15-fmm.txt
+|Score|:97.1,slide_err×0
+None
+
+Jan  1 2017
+corpus/16-fmm.txt
+|Score|:98.6,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/17-fmm.txt
+|Score|:96.1,slide_err×0
+None
+
+Jan  1 2017
+corpus/18-fmm.txt
+|Score|:94.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/19-fmm.txt
+|Score|:97.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/20-fmm.txt
+|Score|:95.6,slide_err×3
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:并重|申,|pre|:增长,|suf|:将,|Correct|:增长|并|重申
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/21-fmm.txt
+|Score|:87.5,slide_err×0
+None
+
+Jan  1 2017
+corpus/22-fmm.txt
+|Score|:90.4,slide_err×0
+None
+
+Jan  1 2017
+corpus/23-fmm.txt
+|Score|:83.8,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/24-fmm.txt
+|Score|:89.6,slide_err×0
+None
+
+Jan  1 2017
+corpus/25-fmm.txt
+|Score|:93.8,slide_err×0
+None
+
+Jan  1 2017
+corpus/26-fmm.txt
+|Score|:88.7,slide_err×0
+None
+
+Jan  1 2017
+corpus/27-fmm.txt
+|Score|:92.9,slide_err×1
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  1 2017
+corpus/28-fmm.txt
+|Score|:87.3,slide_err×3
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
+|WORD|:高级|别,|pre|:更,|suf|:开展,|Correct|:更|高|级别
+|WORD|:大力|气,|pre|:很,|suf|:许多,|Correct|:很|大|力气
+
+
+Jan  1 2017
+corpus/29-fmm.txt
+|Score|:89.3,slide_err×0
+None
+
+Jan  1 2017
+corpus/30-fmm.txt
+|Score|:87.6,slide_err×1
+|WORD|:﻿http|g20chn,|pre|:None,|suf|:org,|Correct|:None|http|g20chn
+
+
+Jan  2 2017
+corpus/1-fmm.txt
+|Score|:95.3,slide_err×0
+None
+
+Jan  2 2017
+corpus/2-fmm.txt
+|Score|:98.5,slide_err×0
+None
+
+Jan  2 2017
+corpus/3-fmm.txt
+|Score|:98.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/4-fmm.txt
+|Score|:99.2,slide_err×0
+None
+
+Jan  2 2017
+corpus/5-fmm.txt
+|Score|:98.9,slide_err×0
+None
+
+Jan  2 2017
+corpus/6-fmm.txt
+|Score|:94.8,slide_err×0
+None
+
+Jan  2 2017
+corpus/7-fmm.txt
+|Score|:86.7,slide_err×0
+None
+
+Jan  2 2017
+corpus/8-fmm.txt
+|Score|:99.3,slide_err×0
+None
+
+Jan  2 2017
+corpus/9-fmm.txt
+|Score|:98.4,slide_err×7
+|WORD|:高级|别,|pre|:的,|suf|:指导,|Correct|:的|高|级别
+|WORD|:主权|债,|pre|:一系列,|suf|:问题,|Correct|:一系列|主|权债
+|WORD|:并重|申,|pre|:年底,|suf|:决心,|Correct|:年底|并|重申
+|WORD|:高级|别,|pre|:一些,|suf|:原则,|Correct|:一些|高|级别
+|WORD|:开发|票,|pre|:错,|suf|:等,|Correct|:错|开|发票
+|WORD|:高级|别,|pre|:的,|suf|:会议,|Correct|:的|高|级别
+|WORD|:高级|别,|pre|:问题,|suf|:会议,|Correct|:问题|高|级别
+
+
+Jan  2 2017
+corpus/10-fmm.txt
+|Score|:99.0,slide_err×1
+|WORD|:国内|部,|pre|:一,|suf|:压力,|Correct|:一|国|内部
+
+
+Jan  2 2017
+corpus/11-fmm.txt
+|Score|:97.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/12-fmm.txt
+|Score|:98.2,slide_err×0
+None
+
+Jan  2 2017
+corpus/13-fmm.txt
+|Score|:99.4,slide_err×1
+|WORD|:正面|临,|pre|:发展,|suf|:着,|Correct|:发展|正|面临
+
+
+Jan  2 2017
+corpus/14-fmm.txt
+|Score|:94.5,slide_err×0
+None
+
+Jan  2 2017
+corpus/15-fmm.txt
+|Score|:97.1,slide_err×0
+None
+
+Jan  2 2017
+corpus/16-fmm.txt
+|Score|:98.6,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  2 2017
+corpus/17-fmm.txt
+|Score|:96.1,slide_err×0
+None
+
+Jan  2 2017
+corpus/18-fmm.txt
+|Score|:94.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/19-fmm.txt
+|Score|:97.3,slide_err×0
+None
+
+Jan  2 2017
+corpus/20-fmm.txt
+|Score|:95.6,slide_err×3
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:并重|申,|pre|:增长,|suf|:将,|Correct|:增长|并|重申
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  2 2017
+corpus/21-fmm.txt
+|Score|:87.5,slide_err×0
+None
+
+Jan  2 2017
+corpus/22-fmm.txt
+|Score|:90.4,slide_err×0
+None
+
+Jan  2 2017
+corpus/23-fmm.txt
+|Score|:83.8,slide_err×2
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  2 2017
+corpus/24-fmm.txt
+|Score|:89.6,slide_err×0
+None
+
+Jan  2 2017
+corpus/25-fmm.txt
+|Score|:93.8,slide_err×0
+None
+
+Jan  2 2017
+corpus/26-fmm.txt
+|Score|:88.7,slide_err×0
+None
+
+Jan  2 2017
+corpus/27-fmm.txt
+|Score|:92.9,slide_err×1
+|WORD|:和平|衡,|pre|:可持续,|suf|:增长,|Correct|:可持续|和|平衡
+
+
+Jan  2 2017
+corpus/28-fmm.txt
+|Score|:87.3,slide_err×3
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
+|WORD|:高级|别,|pre|:更,|suf|:开展,|Correct|:更|高|级别
+|WORD|:大力|气,|pre|:很,|suf|:许多,|Correct|:很|大|力气
+
+
+Jan  2 2017
+corpus/29-fmm.txt
+|Score|:89.3,slide_err×0
+None
+
+Jan  2 2017
+corpus/30-fmm.txt
+|Score|:87.6,slide_err×1
+|WORD|:﻿http|g20chn,|pre|:None,|suf|:org,|Correct|:None|http|g20chn
+
+
+Jan  2 2017
+corpus/31-fmm.txt
+|Score|:91.1,slide_err×1
+|WORD|:http|g20chn,|pre|:None,|suf|:org,|Correct|:﻿http|g20chn
